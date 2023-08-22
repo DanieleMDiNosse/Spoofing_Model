@@ -1,2 +1,2 @@
-# Spoofing_Model
-Implementation on LOBSTER data of the model proposed by Xuan Tao, Andrew Day, Lan Link and Samuel Drapeau in  https://arxiv.org/pdf/2009.14818v2.pdf
+# MMforQuantFin
+Market microstructure is a bottom-up approach to the understanding of the dynamics of price formation. In this repo I will try to formulate models in python code.
